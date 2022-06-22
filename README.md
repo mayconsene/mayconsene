@@ -4,7 +4,7 @@
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to Java Spring.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🔭 I’m currently working on Java Projects (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Back End Development and AWS Cloud.
 - 🤝 I’m looking to collaborate on Back End projects. 
 
