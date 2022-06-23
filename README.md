@@ -2,7 +2,7 @@
 ###
 - 💻 Desenvolvedor Back-End 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 👩🏻 40 anos  
+- 🤓 40 anos  
 - 📚 Desenvolvendo Projetos com Java
 ###
   <a href="https://github.com/mayconsene">
