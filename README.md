@@ -1,6 +1,6 @@
 ### Olá, meu nome é Maycon 👋
 
-<img src="https://avatars.githubusercontent.com/u/25755934?s=400&u=dcd652ff945051a5d48a62e6100801fb06a0cfeb&v=4" width:200px, heigth: 200px>
+<img src="https://avatars.githubusercontent.com/u/25755934?s=400&u=dcd652ff945051a5d48a62e6100801fb06a0cfeb&v=4">
 
 ### Sou Desenvolvedor Back-End 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to Java Spring.
