@@ -8,7 +8,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Back End Development and AWS Cloud.
 - 🤝 I’m looking to collaborate on Back End projects. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mayconsene)
+
 ###
   <a href="https://github.com/mayconsene">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconsene&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
