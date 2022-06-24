@@ -4,7 +4,7 @@
 
 ###
 - 💻 Desenvolvedor Back-End 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Análise e Desenvolvimento de Sistemas
 - 🤓 40 anos  
 - 📚 Desenvolvendo Projetos com Java
 ###
