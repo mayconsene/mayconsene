@@ -6,7 +6,7 @@
 - 💻 Desenvolvedor Back-End 
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 🤓 40 anos  
-- 📚 Desenvolvendo Projetos com Java
+- 📚 Java | Spring
 ###
   <a href="https://github.com/mayconsene">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconsene&show_icons=true&theme=black&include_all_commits=true&count_private=true">
