@@ -30,7 +30,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Maycon-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Maycon-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
+  <img align="center" alt="Maycon-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Maycon-PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> 
   <img align="center" alt="Maycon-Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Maycon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
@@ -40,7 +40,7 @@
   <img align="center" alt="Maycon-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Maycon-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Maycon-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg">
-   <img align="center" alt="Maycon-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-   <img align="center" alt="Maycon-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg">
+   <img align="center" alt="Maycon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img align="center" alt="Maycon-XD" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg">
    
 </div>
