@@ -25,7 +25,7 @@
   </div> 
   
   ###
- ### Ferramentas que estudo ⚡
+ ### O que estou estudando e desenvolvendo? ⚡
   
 <div style="display: inline_block"><br>
   
