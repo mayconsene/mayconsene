@@ -3,7 +3,7 @@
 <img height="150em" src="https://avatars.githubusercontent.com/u/25755934?s=400&u=dcd652ff945051a5d48a62e6100801fb06a0cfeb&v=4">
 
 ####
-- 💻 Analista de Sistemas | Analista de Processos Internos | Desenvolvedor 
+- 💻 Analista de Sistemas Pleno | Analista de Processos Internos | Desenvolvedor
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 🤓 40 anos  
 - 📚 Java | Spring
