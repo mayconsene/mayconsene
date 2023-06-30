@@ -1,4 +1,4 @@
-# Olá, meu nome é Maycon Moraes Sene, analista e desenvolvedor!
+# Olá, meu nome é Maycon Moraes Sene, Analista de Sistemas e Desenvolvedor!
 
 <img height="150em" src="https://avatars.githubusercontent.com/u/25755934?s=400&u=dcd652ff945051a5d48a62e6100801fb06a0cfeb&v=4">
 
