@@ -5,7 +5,7 @@
 ####
 - 💻 Analista de Sistemas Pleno | Desenvolvedor JavaScript - Java | Spring - PHP | Laravel
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🤓 42 anos  
+- 🤓 44 anos  
 - 📚 Java | Spring
 ###
   <a href="https://github.com/mayconsene">
